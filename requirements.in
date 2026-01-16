@@ -1,0 +1,6 @@
+dotenv
+ipywidgets
+huggingface_hub
+datasets # isse datasets import kr skte hai huggingface se
+fsspec
+torch
